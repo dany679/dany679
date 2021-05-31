@@ -5,8 +5,6 @@
 <p align="center">
   <a href="#-projetos">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-Tecnologias">Tecnologias</a>
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=b5838d&labelColor=000000">
 </p>
 <br>
 
