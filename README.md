@@ -32,7 +32,7 @@ ___
 ## 💻 Projetos
 <p > click no link para achar sua pagina </p>
 
-- [Curriculum ](https://github.com/dany679/curriculum)
+- [Curriculum ](https://dany679.github.io/curriculum/index.html)
 - [Simple-react ](https://github.com/dany679/simple-react)
 - [My-to-do-list ](https://github.com/dany679/My-to-do-list)
 - [Chatty ](https://github.com/dany679/chatty-usiningnode)
