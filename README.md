@@ -34,11 +34,13 @@ ___
 ## 💻 Projetos
 <p > click no link para achar sua pagina </p>
 
-- [Curriculum ](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
-- [Simple-react ](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
-- [My-to-do-list ](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
-- [React-netflix ](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
+- [Curriculum ](https://github.com/dany679/curriculum)
+- [Simple-react ](https://github.com/dany679/simple-react)
+- [My-to-do-list ](https://github.com/dany679/My-to-do-list)
+- [Chatty ](https://github.com/dany679/chatty-usiningnode)
 - [Figma](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
+
+<br>
 
 [eng] Important you must have a figma account for figma link can use google account 
 
