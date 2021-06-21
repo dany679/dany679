@@ -12,7 +12,7 @@ ___
 <br><br>
 ## 🚀 Tecnologias
 
-Mais focada em front-end no momento mas sigo estudando o back
+Mais focada em front-end 
 
 Projetos abaixo teve uso dessas tecnologias :
 
@@ -24,15 +24,17 @@ Projetos abaixo teve uso dessas tecnologias :
 - bootstrap
 - react
 
-[back-end]
-- node
+[back-end] (sub foco)
+- node(basico)
 - mysql
+- Next
 
 ___
 ## 💻 Projetos
 <p > click no link para achar sua pagina </p>
 
 - [Netflix-react ](https://github.com/dany679/Netflix-React)
+- [Whatssap-react-Next ](https://github.com/dany679/Whatssap-Next-React-)
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
 - [Simple-react ](https://github.com/dany679/simple-react)
 - [My-to-do-list ](https://github.com/dany679/My-to-do-list)
