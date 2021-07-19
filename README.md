@@ -39,7 +39,7 @@ ___
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
 - [Chatty ](https://github.com/dany679/chatty-usiningnode)
 - [Figma](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
-- <!-- - [Simple-react ](https://github.com/dany679/simple-react)
+<!-- - [Simple-react ](https://github.com/dany679/simple-react)
 - [My-to-do-list ](https://github.com/dany679/My-to-do-list) -->
 
 <br>
