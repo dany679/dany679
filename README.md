@@ -37,10 +37,10 @@ ___
 - [Netflix-react ](https://github.com/dany679/Netflix-React)
 - [Whatssap-react-Next ](https://github.com/dany679/Whatssap-Next-React-)
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
-<!-- - [Simple-react ](https://github.com/dany679/simple-react)
-- [My-to-do-list ](https://github.com/dany679/My-to-do-list) -->
 - [Chatty ](https://github.com/dany679/chatty-usiningnode)
 - [Figma](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
+- <!-- - [Simple-react ](https://github.com/dany679/simple-react)
+- [My-to-do-list ](https://github.com/dany679/My-to-do-list) -->
 
 <br>
 
