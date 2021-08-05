@@ -36,6 +36,7 @@ ___
 - [Tmdb-react ](https://github.com/dany679/TmdbWebSite)
 - [Netflix-react ](https://github.com/dany679/Netflix-React)
 - [Whatssap-react-Next ](https://github.com/dany679/Whatssap-Next-React-)
+- [TaskManager-Context.api](https://github.com/dany679/Task-ManagerReactContext.api)
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
 - [Chatty ](https://github.com/dany679/chatty-usiningnode)
 - [Figma](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
