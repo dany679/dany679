@@ -27,7 +27,7 @@ Projetos abaixo teve uso dessas tecnologias :
 [back-end] (sub foco)
 - node(basico)
 - mysql
-- Next
+- MongoDB
 
 ___
 ## 💻 Projetos
