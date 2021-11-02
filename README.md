@@ -35,7 +35,7 @@ ___
 
 - [Tmdb-react ](https://github.com/dany679/TmdbWebSite)
 - [Netflix-react ](https://github.com/dany679/Netflix-React)
-- [Memories-Mern ](https://github.com/dany679/Memories-Mern-React-Redux)
+- [Memories-Mern-Redux ](https://github.com/dany679/Memories-Mern-React-Redux)
 - [Whatssap-react-Next ](https://github.com/dany679/Whatssap-Next-React-)
 - [TaskManager-Context.api](https://github.com/dany679/Task-ManagerReactContext.api)
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
