@@ -25,7 +25,7 @@ Projetos abaixo teve uso dessas tecnologias :
 - react
 
 [back-end] (sub foco)
-- node(basico)
+- Node.js
 - mysql
 - MongoDB
 
