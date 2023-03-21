@@ -20,7 +20,7 @@ Projetos abaixo teve uso dessas tecnologias :
 - type script
 - java script [ecma6]
 - react
-- react thunk
+- redux thunk
 - html
 - css
 - figma
