@@ -17,12 +17,14 @@ Mais focada em front-end
 Projetos abaixo teve uso dessas tecnologias :
 
 [front-end]
+- type script
 - java script [ecma6]
+- react
+- react thunk
 - html
 - css
 - figma
 - bootstrap
-- react
 
 [back-end] (sub foco)
 - Node.js
