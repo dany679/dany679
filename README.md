@@ -12,12 +12,19 @@
   <img align="center" alt="Danie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Danie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="right" alt="Rafa-yoda"   height="150" width="150" src="https://github.com/dany679/Obuc/assets/59980463/95417fb2-8ef6-4d65-b46a-d477a6a99f2d">
+  <img align="right" alt="Rafa-yoda"   height="150" width="150" src="./imgs/eu.gif">
 </div>
 
-  
-  ##
- 
+<div style="display: inline_block">
+<br>
+  <img align="center" alt="Danie-Next" height="30" width="70"src="./imgs/next.png">
+  <img align="center" alt="Danie-Next" height="30" width="70"src="./imgs/mongodb.png">
+  <img align="center" alt="Danie-Next" height="30" width="70"src="./imgs/mysql.png">
+  <img align="center" alt="Danie-Next" height="30" width="70"src="./imgs/prisma.png">
+
+</div>
+
+ ## 
 <div>
   <!----
   <a href="CHANEL_LINK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -27,7 +34,5 @@
   <a href="https://instagram.com/_danie,rosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniellymoreira30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danie-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 
 </div>
