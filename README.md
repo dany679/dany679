@@ -21,10 +21,8 @@ Projetos abaixo teve uso dessas tecnologias :
 - java script [ecma6]
 - react
 - redux thunk
-- html
-- css
-- figma
-- bootstrap
+- Next.js
+- Tailwind
 
 [back-end] (sub foco)
 - Node.js
@@ -39,11 +37,14 @@ ___
 - [Netflix-react ](https://github.com/dany679/Netflix-React)
 - [Memories-Mern-Redux ](https://github.com/dany679/Memories-Mern-React-Redux)
 - [Whatssap-react-Next ](https://github.com/dany679/Whatssap-Next-React-)
-- [TaskManager-Context.api](https://github.com/dany679/Task-ManagerReactContext.api)
+- [Jest-test ](https://github.com/dany679/Jest-JS)
 - [Curriculum ](https://dany679.github.io/curriculum/index.html)
-- [Chatty ](https://github.com/dany679/chatty-usiningnode)
+- [Protopia-Next13 ](https://github.com/dany679/Next-13-Full-Stack)
+<!-- 
+- [TaskManager-Context.api](https://github.com/dany679/Task-ManagerReactContext.api)
+-- [Chatty ](https://github.com/dany679/chatty-usiningnode)
 - [Figma](https://www.figma.com/file/UWGAzexUoPe2MYHUXeuqpt/portifolio-curriculum?node-id=0%3A1)
-<!-- - [Simple-react ](https://github.com/dany679/simple-react)
+ [Simple-react ](https://github.com/dany679/simple-react)
 - [My-to-do-list ](https://github.com/dany679/My-to-do-list) -->
 
 <br>
