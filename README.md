@@ -17,16 +17,16 @@ Mais focada em front-end
 Projetos abaixo teve uso dessas tecnologias :
 
 [front-end]
-- type script
-- java script [ecma6]
-- react
-- redux thunk
 - Next.js
 - Tailwind
+- react
+- redux thunk
+- Type script
+- java script [ecma6]
 
-[back-end] (sub foco)
+[back-end] 
 - Node.js
-- mysql
+- Mysql
 - MongoDB
 
 ___
