@@ -12,7 +12,7 @@
   <img align="center" alt="Danie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Danie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-yoda"   height="150" width="150" src="https://github.com/dany679/Obuc/assets/59980463/95417fb2-8ef6-4d65-b46a-d477a6a99f2d">
 </div>
 
   
