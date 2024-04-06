@@ -53,10 +53,12 @@ Projetos abaixo teve uso dessas tecnologias :
 - Prisma
 - Mysql
 - Node.js
+- Nest
 - MongoDB
 
 [test]
 - jest
+- cypress
 
 <!-- 
 ___
